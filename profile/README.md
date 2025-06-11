@@ -1,4 +1,4 @@
-![CI](https://www.alicepro.co.kr/wp-content/uploads/2023/11/ci-regi.png)
+![CI](https://www.alicepro.co.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbigAliceLogo.ac2afde2.png&w=3840&q=75)
 # ALICE Project Co., Ltd.
 - **Adventurous Leaders Inspiring Creative Entrepreneurs (Engineers).**
 - **Adventure Leads us to Innovation, Creativity, and Execution.**

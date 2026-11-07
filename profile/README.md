@@ -1,24 +1,69 @@
-![CI](https://www.alicepro.co.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbigAliceLogo.ac2afde2.png&w=3840&q=75)
-# ALICE Pro Co., Ltd.
-- **Adventurous Leaders Inspiring Creative Entrepreneurs (Engineers).**
-- **Adventure Leads us to Innovation, Creativity, and Execution.**
-- **Always Learning and Improving through Curiosity and Exploration.**
+![ALICE Pro](https://www.alicepro.co.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbigAliceLogo.ac2afde2.png&w=3840&q=75)
 
-Welcome to the GitHub profile of ALICE Pro!
+# ALICE Pro Inc.
 
-## Tech Stack
+**Engineering possibilities. Empowering human potential.**
 
-- **Languages**: Java, HTML, CSS, Javascript, C, C++, C#, etc. ![Language Badge](https://img.shields.io/badge/Language-Java-yellow)
-- **Frameworks**: Spring Boot, Nest.js, React, React Native, Flutter, Next.js, etc. ![Framework Badge](https://img.shields.io/badge/Framework-React-blue)
-- **Database**: MySQL(MariaDB), PostgreSQL, Oracle, MSSQL, MongoDB, Redis, H2, SQLite, etc. ![Database Badge](https://img.shields.io/badge/Database-MySQL-brightgreen)
-- **Other Technologies**: KiCAD, OrCAD, PADS, Fusion 360, AutoCAD, etc. ![Tech Badge](https://img.shields.io/badge/Other-Fusion360-darkred)
+ALICE Pro brings software, hardware, and robotics together to create technology that makes a meaningful difference in everyday life.
 
-## Business Segments
+We turn ideas into working products—from electronic systems and embedded firmware to connected applications and cloud platforms. Today, we are bringing these capabilities together through **HAPTREX**, our smart fitness platform.
 
-- Software Development ![Segment Badge](https://img.shields.io/badge/Segment2-Software%20Development-brightgreen)
-- Hardware Engineering ![Segment Badge](https://img.shields.io/badge/Segment3-Hardware%20Engineering-darkred)
+## Our Vision
 
-## Contact
+We envision a world where technology helps people move with confidence, understand their progress, and achieve more.
 
-- **Website:** [https://www.alicepro.co.kr](https://www.alicepro.co.kr)
+Our mission is to connect physical experiences with digital intelligence, making useful technology more accessible and turning data into insights people can act on.
 
+## Building HAPTREX
+
+**Smarter equipment. More connected training.**
+
+HAPTREX brings robotics, digital resistance control, and workout data to existing strength-training equipment.
+
+By upgrading the equipment gyms already use, we aim to make connected fitness more accessible—for the people who train, the trainers who guide them, and the operators who support them.
+
+Our development focuses on:
+
+- **Connected equipment** — Integrating hardware, control systems, and software into a unified training experience.
+- **Training assistance** — Developing resistance control and safety-support features that help people train with confidence.
+- **Meaningful workout data** — Capturing exercise data and making progress easier to understand.
+- **Intelligent guidance** — Connecting workout insights with personalized coaching.
+- **Practical modernization** — Helping fitness facilities adopt smart capabilities through existing equipment.
+
+[Explore HAPTREX →](https://www.haptrex.com)
+
+## Our Engineering Capabilities
+
+We build across the physical and digital layers of a product.
+
+| Area | Capabilities |
+| --- | --- |
+| Software & Platforms | Backend systems, web and mobile applications, APIs, and cloud-connected services |
+| Robotics & Embedded Systems | Firmware, device integration, motion control, and hardware–software integration |
+| Electronics & Product Engineering | Circuit design, PCB layout, mechanical design, and prototyping |
+| Data & Connected Experiences | Device data collection, workout visualization, and services that connect equipment with people |
+
+### Selected Technologies
+
+- **Languages:** Java, JavaScript, C, C++, C#
+- **Frameworks:** Spring Boot, NestJS, React, React Native, Flutter, Next.js
+- **Data:** MySQL / MariaDB, PostgreSQL, MongoDB, Redis
+- **Engineering Tools:** KiCad, OrCAD, PADS, Fusion 360, AutoCAD
+
+## The ALICE Spirit
+
+**Adventurous Leaders Inspiring Creative Entrepreneurs and Engineers.**
+
+- **Explore with curiosity.** Ask questions, challenge assumptions, and keep learning.
+- **Create with purpose.** Start with real needs and build toward meaningful outcomes.
+- **Execute with care.** Test ideas, learn from setbacks, and improve through action.
+
+Adventure is in our DNA. Engineering is how we move forward.
+
+## Connect With Us
+
+Interested in HAPTREX, engineering collaboration, or partnership opportunities?
+
+- **Company:** [alicepro.co.kr](https://www.alicepro.co.kr)
+- **HAPTREX:** [haptrex.com](https://www.haptrex.com)
+- **Email:** [sales@alicepro.co.kr](mailto:sales@alicepro.co.kr)

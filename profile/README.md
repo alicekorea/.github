@@ -52,7 +52,7 @@ We build across the physical and digital layers of a product.
 
 ## The ALICE Spirit
 
-**Adventurous Leaders Inspiring Creative Entrepreneurs and Engineers.**
+**`A`dventurous `L`eaders `I`nspiring `C`reative `E`ngineers**
 
 - **Explore with curiosity.** Ask questions, challenge assumptions, and keep learning.
 - **Create with purpose.** Start with real needs and build toward meaningful outcomes.

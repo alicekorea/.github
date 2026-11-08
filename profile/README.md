@@ -1,4 +1,4 @@
-![ALICE Pro](https://www.alicepro.co.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbigAliceLogo.ac2afde2.png&w=3840&q=75)
+![ALICE Pro](assets/ALICE%20Pro%20-%20HAPTREX.png)
 
 # ALICE Pro Inc.
 
